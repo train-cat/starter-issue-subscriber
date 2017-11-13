@@ -4,9 +4,9 @@ import (
 	"flag"
 	"os"
 
-	"github.com/train-cat/starter-issue-subscriber/helper"
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/viper"
+	"github.com/train-cat/starter-issue-subscriber/helper"
 )
 
 func init() {
